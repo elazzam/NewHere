@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/home/elazzam/Github/NewHere/WhyNot/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]
