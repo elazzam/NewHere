@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
 	"time": "Tue May 16 2017 21:59:48 GMT+0200 (CEST)",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
+=======
+	"time": "Tue May 16 2017 21:54:55 GMT+0200 (CEST)",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": true,
+>>>>>>> branch 'master' of https://github.com/elazzam/NewHere
 	"changesRequireBuildTime": "Tue May 16 2017 21:54:55 GMT+0200 (CEST)"
 }
